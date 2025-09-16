@@ -1,7 +1,12 @@
 # login_register_flutter
 
-A new Flutter project.
-
+Poin Pembelajaran
+• Membangun UI dengan widget dasar dan dekorasi untuk mempercantik tampilan.
+• Menggunakan TextEditingController untuk mengelola input dari pengguna.
+• Menavigasi antar halaman menggunakan Navigator.push, Navigator.pop,
+dan Navigator.pushReplacement.
+• Mengirim data antar halaman melalui constructor.
+• Menyimpan data secara sementara dalam variabel global (Map).
 ## Getting Started
 
 This project is a starting point for a Flutter application.
